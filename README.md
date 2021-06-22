@@ -10,3 +10,5 @@
 Версия Java - 1.7
 GUI - Swing
 Валидация - Hibernate Validator
+
+Запуск консольной версии: java -jar swingy-1.0-SNAPSHOT.jar console/gui
